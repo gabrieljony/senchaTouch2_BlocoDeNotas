@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <formulario>
+        <id>1</id>
+        <first>Ed Spencer</first>
+        <last>Spencer</last>
+        <email>ed@sencha.com</email>
+        <adress>Rua Ademar Barros</adress>
+        <city>Salvador</city>
+        <state>Bahia</state>
+    </formulario>
+    <formulario>
+        <id>2</id>
+        <first>Abe</first>
+        <last>Elias</last>
+        <email>abe@sencha.com</email>
+        <adress>Av. Alguma</adress>
+        <city>Natal</city>
+        <state>Rio Grande do Norte</state>
+    </formulario>
+</data>

@@ -1,0 +1,10 @@
+Ext.define('Seminario.model.Formulario',{
+	extend:'Ext.data.Model',
+	config:{
+		fields:[
+			{
+				name:'form'
+			}
+		]
+	}
+});

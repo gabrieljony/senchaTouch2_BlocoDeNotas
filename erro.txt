@@ -1,0 +1,300 @@
+[INF] -before-refresh:
+[INF]
+[INF] -init:
+[INF]
+[INF] -init-compiler:
+[INF]
+[INF] -detect-app-build-properties:
+[WRN] Folder should have exactly one .pkg file: C:\Users\GABRIEL\bin\Sencha\Cmd\
+repo\pkgs\.meta\profiles
+[INF] Loading app json manifest...
+[INF] Loading classpath entry C:\xampp\htdocs\Seminario\touch\src
+[INF] Loading classpath entry C:\xampp\htdocs\Seminario\app.js
+[INF] Loading classpath entry C:\xampp\htdocs\Seminario\app
+[INF] Loading classpath entry C:\xampp\htdocs\Seminario\build\temp\production\Se
+minario\sencha-compiler\app
+[INF] Loading classpath entry C:\xampp\htdocs\Seminario\build\temp\production\Se
+minario\sencha-compiler\app
+[INF] Concatenating output to file C:\xampp\htdocs\Seminario/build/temp/producti
+on/Seminario/sencha-compiler/cmd-packages.js
+[INF] Adding external reference : @full-page => @overrides
+[INF] Loading classpath entry C:\xampp\htdocs\Seminario\build\temp\production\Se
+minario\sencha-compiler\cmd-packages.js
+[INF] Adding external reference : Ext.util.Observable => C:\xampp\htdocs\Seminar
+io/build/temp/production/Seminario/sencha-compiler/cmd-packages.js
+[INF]
+[INF] -refresh-app:
+[INF] Appending concatenated output to file C:\xampp\htdocs\Seminario/bootstrap.
+js
+[INF] Appending concatenated output to file C:\xampp\htdocs\Seminario/bootstrap.
+js
+[INF] Appending concatenated output to file C:\xampp\htdocs\Seminario/bootstrap.
+js
+[INF] Appending concatenated output to file C:\xampp\htdocs\Seminario/bootstrap.
+js
+[INF] Appending concatenated output to file C:\xampp\htdocs\Seminario/bootstrap.
+js
+[INF] Appending content to C:\xampp\htdocs\Seminario/bootstrap.json
+[INF]
+[INF] -refresh:
+[INF]
+[INF] -after-refresh:
+[INF]
+[INF] after-upgrade:
+[INF]
+[INF] generate-app:
+[INF]
+[INF] -after-generate-app:
+[INF] [x-property-file] Updating property file: C:\xampp\htdocs\Seminario\.sench
+a\app\sencha.cfg
+
+
+C:\xampp\htdocs\touch-2.4.2>cd C:\xampp\htdocs\Seminario
+
+C:\xampp\htdocs\Seminario>sencha app build production
+Sencha Cmd v4.0.5.87
+[WRN] Folder should have exactly one .pkg file: C:\Users\GABRIEL\bin\Sencha\Cmd\
+repo\pkgs\.meta\profiles
+[INF]
+[INF] init-plugin:
+[INF]
+[INF] cmd-root-plugin.init-properties:
+[INF]
+[INF] init-properties:
+[INF]
+[INF] init-sencha-command:
+[INF]
+[INF] init:
+[INF]
+[INF] app-build-impl:
+[INF]
+[INF] -before-init-local:
+[INF]
+[INF] -init-local:
+[INF]
+[INF] -after-init-local:
+[INF]
+[INF] init-local:
+[INF]
+[INF] find-cmd-in-path:
+[INF]
+[INF] find-cmd-in-environment:
+[INF]
+[INF] find-cmd-in-shell:
+[INF]
+[INF] init-cmd:
+[INF]      [echo] Using Sencha Cmd from C:\Users\GABRIEL\bin\Sencha\Cmd\4.0.5.87
+ for C:\xampp\htdocs\Seminario\build.xml
+[INF]
+[INF] -before-init:
+[INF]
+[INF] -init:
+[INF] Initializing Sencha Cmd ant environment
+[WRN] Folder should have exactly one .pkg file: C:\Users\GABRIEL\bin\Sencha\Cmd\
+repo\pkgs\.meta\profiles
+[INF] Adding antlib taskdef for com/sencha/command/compass/ant/antlib.xml
+[INF]
+[INF] -after-init:
+[INF]
+[INF] -before-init-defaults:
+[INF]
+[INF] -init-defaults:
+[INF]
+[INF] -after-init-defaults:
+[INF]
+[INF] -init-compiler:
+[INF]
+[INF] init:
+[INF]
+[INF] -before-build:
+[INF]
+[INF] refresh:
+[INF]
+[INF] -before-refresh:
+[INF]
+[INF] -init:
+[INF]
+[INF] -init-compiler:
+[INF]
+[INF] -detect-app-build-properties:
+[WRN] Folder should have exactly one .pkg file: C:\Users\GABRIEL\bin\Sencha\Cmd\
+repo\pkgs\.meta\profiles
+[INF] Loading app json manifest...
+[INF] Loading classpath entry C:\xampp\htdocs\Seminario\touch\src
+[INF] Loading classpath entry C:\xampp\htdocs\Seminario\app.js
+[INF] Loading classpath entry C:\xampp\htdocs\Seminario\app
+[INF] Loading classpath entry C:\xampp\htdocs\Seminario\build\temp\production\Se
+minario\sencha-compiler\app
+[WRN] C1000: Rhino Parse Warning (Trailing comma is not legal in an ECMA-262 obj
+ect initializer =>      ],) -- C:\xampp\htdocs\Seminario\app.js:9:2
+[WRN] C1000: Rhino Parse Warning (Trailing comma is not legal in an ECMA-262 obj
+ect initializer =>              ]) -- C:\xampp\htdocs\Seminario\app\model\Formul
+ario.js:23:3
+[WRN] C1000: Rhino Parse Warning (Trailing comma is not legal in an ECMA-262 obj
+ect initializer =>              }]) -- C:\xampp\htdocs\Seminario\app\view\Formul
+arioLista.js:17:10
+[WRN] C1000: Rhino Parse Warning (Trailing comma is not legal in an ECMA-262 obj
+ect initializer =>                          },) -- C:\xampp\htdocs\Seminario\app
+\view\PreenchimentoDoFormulario.js:14:15
+[WRN] C1000: Rhino Parse Warning (Trailing comma is not legal in an ECMA-262 obj
+ect initializer =>                      }]) -- C:\xampp\htdocs\Seminario\app\vie
+w\PreenchimentoDoFormulario.js:21:11
+[WRN] C1000: Rhino Parse Warning (Trailing comma is not legal in an ECMA-262 obj
+ect initializer =>                      ]) -- C:\xampp\htdocs\Seminario\app\view
+\PreenchimentoDoFormulario.js:58:8
+[INF] Loading classpath entry C:\xampp\htdocs\Seminario\build\temp\production\Se
+minario\sencha-compiler\app
+[INF] Concatenating output to file C:\xampp\htdocs\Seminario/build/temp/producti
+on/Seminario/sencha-compiler/cmd-packages.js
+[INF] Adding external reference : @full-page => @overrides
+[INF] Loading classpath entry C:\xampp\htdocs\Seminario\build\temp\production\Se
+minario\sencha-compiler\cmd-packages.js
+[INF] Adding external reference : Ext.util.Observable => C:\xampp\htdocs\Seminar
+io/build/temp/production/Seminario/sencha-compiler/cmd-packages.js
+[INF]
+[INF] -refresh-app:
+[INF] Appending concatenated output to file C:\xampp\htdocs\Seminario/bootstrap.
+js
+[INF] Appending concatenated output to file C:\xampp\htdocs\Seminario/bootstrap.
+js
+[INF] Appending concatenated output to file C:\xampp\htdocs\Seminario/bootstrap.
+js
+[INF] Appending concatenated output to file C:\xampp\htdocs\Seminario/bootstrap.
+js
+[INF] Appending concatenated output to file C:\xampp\htdocs\Seminario/bootstrap.
+js
+[INF] Appending content to C:\xampp\htdocs\Seminario/bootstrap.json
+[INF]
+[INF] -refresh:
+[INF]
+[INF] -after-refresh:
+[INF]
+[INF] resolve:
+[INF]
+[INF] js:
+[INF]
+[INF] -before-js:
+[INF]
+[INF] -init:
+[INF]
+[INF] -init-compiler:
+[INF]
+[INF] -detect-app-build-properties:
+[INF]
+[INF] -compile-js:
+[INF] Concatenating output to file C:\xampp\htdocs\Seminario/build/production/Se
+minario/app.js
+[INF]
+[INF] -js:
+[INF]
+[INF] -after-js:
+[INF]
+[INF] resources:
+[INF]
+[INF] -before-resources:
+[INF]
+[INF] -before-inherit-resources:
+[INF]
+[INF] -before-copy-resources:
+[INF]
+[INF] -init:
+[INF]
+[INF] -init-compiler:
+[INF]
+[INF] -resources:
+[INF] merging resources into C:\xampp\htdocs\Seminario\build\production\Seminari
+o\resources
+[INF] merged 0 resources into C:\xampp\htdocs\Seminario\build\production\Seminar
+io\resources
+[INF] merging resources into C:\xampp\htdocs\Seminario\build\production\Seminari
+o
+[INF] merged 14 resources into C:\xampp\htdocs\Seminario\build\production\Semina
+rio
+[INF]
+[INF] -after-copy-resources:
+[INF]
+[INF] -after-inherit-resources:
+[INF]
+[INF] -after-resources:
+[INF]
+[INF] sass:
+[INF]
+[INF] -before-sass:
+[INF]
+[INF] -compass-compile-theme-package:
+[INF]
+[INF] -compass-compile-theme-folders:
+[INF]
+[INF] -compass-compile-sass-dir:
+[INF] executing compass using system installed ruby runtime
+   remove ../css/app.css
+   create ../css/app.css
+[INF]
+[INF] -compass-compile:
+[INF]
+[INF] -sass:
+[INF]
+[INF] -after-sass:
+[INF]
+[INF] slice:
+[INF]
+[INF] -before-slice:
+[INF]
+[INF] -slice-images:
+[INF]
+[INF] -slice:
+[INF]
+[INF] -after-slice:
+[INF]
+[INF] page:
+[INF]
+[INF] -before-page:
+[INF]
+[INF] -init:
+[INF]
+[INF] -init-compiler:
+[INF]
+[INF] -copy-app-resources:
+[INF] Copying page resources to C:\xampp\htdocs\Seminario\build\production\Semin
+ario
+[INF] compressing C:\xampp\htdocs\Seminario\build\production\Seminario\app.js
+[INF] copying C:\xampp\htdocs\Seminario\resources\css\app.css to C:\xampp\htdocs
+\Seminario\build\production\Seminario\resources\css\app.css
+[INF] compressing C:\xampp\htdocs\Seminario\build\production\Seminario\resources
+\css\app.css
+[INF]
+[INF] -generate-deltas:
+[INF] Generating file deltas to C:\xampp\htdocs\Seminario/build/production/Semin
+ario/deltas
+[INF]
+[INF] -detect-app-build-properties:
+[INF]
+[INF] -build-standalone-json-manifest:
+[INF]
+[INF] -build-output-page:
+[INF]
+[INF] -build-output-microload-page:
+[INF] Writing content to C:\xampp\htdocs\Seminario/build/production/Seminario/ap
+p.json
+[INF] Writing content to C:\xampp\htdocs\Seminario/build/production/Seminario/mi
+croloader.js
+[INF] Appending content to C:\xampp\htdocs\Seminario/build/production/Seminario/
+microloader.js
+[INF] Building output markup to C:\xampp\htdocs\Seminario/build/production/Semin
+ario/index.html
+[ERR]
+[ERR] BUILD FAILED
+[ERR] java.lang.NullPointerException
+[ERR]   at sun.reflect.NativeMethodAccess
+[ERR] orImpl.invoke(Unknown Source)
+[ERR]
+[ERR] Total time: 12 seconds
+[ERR] The following error occurred while executing this line:
+C:\xampp\htdocs\Seminario\.sencha\app\build-impl.xml:385: The following error oc
+curred while executing this line:
+C:\xampp\htdocs\Seminario\.sencha\app\page-impl.xml:125: The following error occ
+urred while executing this line:
+C:\xampp\htdocs\Seminario\.sencha\app\page-impl.xml:62: java.lang.NullPointerExc
+eption
+
+C:\xampp\htdocs\Seminario>
